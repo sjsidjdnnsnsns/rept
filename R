@@ -1,6 +1,1 @@
-if game.PlaceId == 13977939077 then --chain
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sjsidjdnnsnsns/game/refs/heads/main/chain"))()
-elseif game.PlaceId == 110333320616502 then --格蕾丝
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sjsidjdnnsnsns/game/refs/heads/main/gelei"))()
-end
 
